@@ -1,0 +1,15 @@
+hr {
+    margin: 1.875em 0;
+    border: none;
+    border-bottom: solid 1px #000000;
+  }
+  .dashed {
+    border-bottom: dashed 1px #000000;
+    width: 50%;
+  }
+  .dashed-2 {
+    border: none;
+    height: 1px;
+    background: #000;
+    background: repeating-linear-gradient(90deg,#000,#000 6px,transparent 6px,transparent 12px);
+  }
